@@ -1,0 +1,20 @@
+Date: 2025-01-14
+Amount: 0.0
+Category: food
+Description: jsj
+
+Date: 2025-01-14
+Amount: 100.0
+Category: food
+Description: ajayl
+
+Date: 2025-01-14
+Amount: 1002.0
+Category: food
+Description: djdjdj
+
+Date: 2025-01-14
+Amount: 389.0
+Category: travl
+Description: sjs
+
