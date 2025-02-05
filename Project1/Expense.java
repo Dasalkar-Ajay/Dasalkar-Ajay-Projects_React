@@ -1,4 +1,5 @@
 import java.time.LocalDate;
+import java.util.Date;
 
 public class Expense {
     private float amount;
@@ -11,6 +12,10 @@ public class Expense {
         this.category = category;
         this.description = description;
         this.date = date;
+    }
+
+    public Expense(Date date2, String category2, double amount2) {
+        //TODO Auto-generated constructor stub
     }
 
     public float getAmount() {

@@ -19,4 +19,9 @@ public class ExpenseManager {
         FileHandler.getMonthlyTotal(month);
     }
 
+    public Object getAllExpenses() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getAllExpenses'");
+    }
+
 }

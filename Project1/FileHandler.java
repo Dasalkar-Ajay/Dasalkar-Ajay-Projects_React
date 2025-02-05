@@ -111,4 +111,9 @@ public class FileHandler {
         System.out.println(result);
         // return result;
     }
+
+    public static Object loadExpensesFromFile(String string) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'loadExpensesFromFile'");
+    }
 }
